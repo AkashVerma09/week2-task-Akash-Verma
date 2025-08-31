@@ -33,4 +33,5 @@ pip install pandas numpy
 ```
 
 ## Sample outputs
-- The notebook prints the first five rows, dataset info, summary statistics, top 3 students, and saves an updated CSV with Pass/Fail results.
+- The notebook prints the first five rows, dataset info, summary statistics, top 3 students, and saves an updated CSV with Pass/Fail results.(The outputs are provided within the code)
+  
