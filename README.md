@@ -34,10 +34,3 @@ pip install pandas numpy
 
 ## Sample outputs
 - The notebook prints the first five rows, dataset info, summary statistics, top 3 students, and saves an updated CSV with Pass/Fail results.
-
----
-
-If you'd like, I can:
-- Rename the files to your preferred name (e.g., `week2-task-Pratham.ipynb`) before you download.
-- Convert this notebook to a Python script (`.py`) instead.
-- Create a GitHub-ready zip containing the files.
